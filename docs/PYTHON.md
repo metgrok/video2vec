@@ -50,3 +50,4 @@ print(result.transcript)
 - The Python package currently supports CPU-only execution.
 - The Python package is currently in beta (0.x).
 - See the main [README.md](README.md) for more details on project limitations and the roadmap.
+- The Python package is currently in development and is planned for a stable 1.0 release in the future.
